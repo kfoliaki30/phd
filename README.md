@@ -13,3 +13,6 @@ Just
 as 
 an
 example
+
+
+Use the readme as the content page to link to other notes

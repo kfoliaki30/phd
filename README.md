@@ -1,11 +1,8 @@
 # phd
 research
 
-if you want **bold** or *italics* use asterick on either side
+# Link some of the files here
 
-if you want to use underscores for the same _effect_ __effect__
+[tables.md] (link)
 
-you can combine **_bold and italics_**
-
-strikethrough ~tilde~
 
